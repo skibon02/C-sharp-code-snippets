@@ -1,0 +1,7 @@
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Работа с флагами\bin\Debug\Работа с флагами.exe.config
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Работа с флагами\bin\Debug\Работа с флагами.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Работа с флагами\bin\Debug\Работа с флагами.pdb
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Работа с флагами\obj\Debug\Работа с флагами.csprojAssemblyReference.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Работа с флагами\obj\Debug\Работа с флагами.csproj.CoreCompileInputs.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Работа с флагами\obj\Debug\Работа с флагами.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Работа с флагами\obj\Debug\Работа с флагами.pdb

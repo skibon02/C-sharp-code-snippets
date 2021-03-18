@@ -1,0 +1,7 @@
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\ООП. Наследование и полиморфизм\bin\Debug\ООП.Наследование_и_полиморфизм.exe.config
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\ООП. Наследование и полиморфизм\bin\Debug\ООП.Наследование_и_полиморфизм.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\ООП. Наследование и полиморфизм\bin\Debug\ООП.Наследование_и_полиморфизм.pdb
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\ООП. Наследование и полиморфизм\obj\Debug\ООП. Наследование и полиморфизм.csprojAssemblyReference.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\ООП. Наследование и полиморфизм\obj\Debug\ООП. Наследование и полиморфизм.csproj.CoreCompileInputs.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\ООП. Наследование и полиморфизм\obj\Debug\ООП.Наследование_и_полиморфизм.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\ООП. Наследование и полиморфизм\obj\Debug\ООП.Наследование_и_полиморфизм.pdb
