@@ -17,78 +17,38 @@ struct Rect
     }
 }
 
-class Program
+namespace Rectomania
 {
-    /*
-     *  Функция начальной инициализации буфера.
-     */
-    static char[,] InitBuffer(int width, int height)
+    class Program
     {
-        char[,] buff = new char[height, width]; // первое измерение - строки, поэтому сначала идет высота, а потом ширина
-        for (int i = 0; i < buff.GetLength(0); i++)
+        static void Main()
         {
-            for (int j = 0; j < buff.GetLength(1); j++)
+            Console.ForegroundColor = ConsoleColor.Yellow; // пример изменения цвета символов
+
+            ConsoleGraphics consoleGraphics = new ConsoleGraphics(50, 20);
+
+            Random rand = new Random();
+            while (true)
             {
-                buff[i, j] = ' ';
+                int cx = rand.Next(10, 40); //коэффициенты подобраны для +- равномерного распределения
+                int cy = rand.Next(5, 15);
+                int width = rand.Next(1, 12);
+                int height = rand.Next(1, 6);
+
+                Rect rect = new Rect(cx - width / 2, cy - height / 2, width, height, (char)('░' + rand.Next(0, 3)));
+                consoleGraphics.Draw(rect);
+                consoleGraphics.Display();
+
+                Thread.Sleep(300);
             }
-        }
-        return buff;
-    }
 
-    /*
-     *  Вывод содержимого буфера на экран. 
-     */
-    static void Display(char[,] buff)
-    {
-        // С точки зрения оптимизации, Console.Write отрабатывает мгновенно, задержки вывода имеются только в самой консоли
-        // Поэтому использовать двойной цикл здесь удобнее, чем как-то конвертировать двумерный массив в одномерную строку.
-        for (int i = 0; i < buff.GetLength(0); i++)
-        {
-            for (int j = 0; j < buff.GetLength(1); j++)
-            {
-                Console.Write(buff[i, j]);
-            }
-            Console.Write('\n');
+            //RectangleList lst = new RectangleList("list.txt"); //пример чтения из файла
+            //consoleGraphics.Draw(lst);
+            //consoleGraphics.Display();
+
+            //Console.Read();
+            //return;
         }
     }
 
-    /* 
-     *  Функция отрисовки фигуры (прямоугольника) в буфере "пикселей".
-     */
-    static void Draw(char[,] buff, Rect rect)
-    {
-        Console.Clear();
-        for (int i = rect.y; i < rect.y + rect.height && i < buff.GetLength(0); i++)
-        {
-            for (int j = rect.x; j < rect.x + rect.width && j < buff.GetLength(1); j++)
-            {
-                buff[i, j] = rect.color;
-            }
-        }
-    }
-    static void Main()
-    {
-
-        Console.ForegroundColor = ConsoleColor.Yellow; // пример изменения цвета символов
-
-        char[,] buff = InitBuffer(50, 20);
-
-        Random rand = new Random();
-        while (true)
-        {
-            int cx = rand.Next(10, 40); //коэффициенты подобраны для +- равномерного распределения
-            int cy = rand.Next(5, 15);
-            int width = rand.Next(1, 12);
-            int height = rand.Next(1, 6);
-
-            Rect rect = new Rect(cx - width / 2, cy - height / 2, width, height, (char)('░' + rand.Next(0, 3)));
-            Draw(buff, rect);
-            Display(buff);
-
-            Thread.Sleep(300);
-        }
-
-
-        return;
-    }
 }

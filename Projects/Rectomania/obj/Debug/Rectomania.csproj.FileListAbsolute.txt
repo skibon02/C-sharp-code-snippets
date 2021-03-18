@@ -1,0 +1,7 @@
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\Rectomania\bin\Debug\Rectomania.exe.config
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\Rectomania\bin\Debug\Rectomania.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\Rectomania\bin\Debug\Rectomania.pdb
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\Rectomania\obj\Debug\Rectomania.csprojAssemblyReference.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\Rectomania\obj\Debug\Rectomania.csproj.CoreCompileInputs.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\Rectomania\obj\Debug\Rectomania.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\Rectomania\obj\Debug\Rectomania.pdb
