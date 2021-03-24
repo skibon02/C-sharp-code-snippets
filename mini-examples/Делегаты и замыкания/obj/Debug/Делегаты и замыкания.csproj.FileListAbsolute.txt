@@ -1,0 +1,7 @@
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Делегаты и замыкания\bin\Debug\Делегаты и замыкания.exe.config
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Делегаты и замыкания\bin\Debug\Делегаты и замыкания.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Делегаты и замыкания\bin\Debug\Делегаты и замыкания.pdb
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Делегаты и замыкания\obj\Debug\Делегаты и замыкания.csprojAssemblyReference.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Делегаты и замыкания\obj\Debug\Делегаты и замыкания.csproj.CoreCompileInputs.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Делегаты и замыкания\obj\Debug\Делегаты и замыкания.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\mini-examples\Делегаты и замыкания\obj\Debug\Делегаты и замыкания.pdb
