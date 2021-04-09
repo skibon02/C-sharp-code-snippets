@@ -1,0 +1,9 @@
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\WindowsForms - Button clicker\obj\Debug\WindowsForms - Button clicker.csprojAssemblyReference.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\WindowsForms - Button clicker\obj\Debug\WindowsForms___Button_clicker.Properties.Resources.resources
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\WindowsForms - Button clicker\obj\Debug\WindowsForms - Button clicker.csproj.GenerateResource.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\WindowsForms - Button clicker\obj\Debug\WindowsForms - Button clicker.csproj.CoreCompileInputs.cache
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\WindowsForms - Button clicker\bin\Debug\WindowsForms - Button clicker.exe.config
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\WindowsForms - Button clicker\bin\Debug\WindowsForms - Button clicker.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\WindowsForms - Button clicker\bin\Debug\WindowsForms - Button clicker.pdb
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\WindowsForms - Button clicker\obj\Debug\WindowsForms - Button clicker.exe
+E:\programming\GitHib repo\C-sharp-code-snippets\Projects\WindowsForms - Button clicker\obj\Debug\WindowsForms - Button clicker.pdb

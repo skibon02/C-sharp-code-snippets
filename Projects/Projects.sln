@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectomania", "Rectomania\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Closure (пример с ошибкой)", "Closure (пример с ошибкой)\Closure (пример с ошибкой).csproj", "{430164C8-7975-40C5-9BAE-1098821104D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms - Button clicker", "WindowsForms - Button clicker\WindowsForms - Button clicker.csproj", "{B2133C7B-C37C-4C00-8FC2-D074C4334884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{430164C8-7975-40C5-9BAE-1098821104D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{430164C8-7975-40C5-9BAE-1098821104D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{430164C8-7975-40C5-9BAE-1098821104D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2133C7B-C37C-4C00-8FC2-D074C4334884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2133C7B-C37C-4C00-8FC2-D074C4334884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2133C7B-C37C-4C00-8FC2-D074C4334884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2133C7B-C37C-4C00-8FC2-D074C4334884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
